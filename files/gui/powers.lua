@@ -112,7 +112,7 @@ local main_menu_items = {
 local BUTTON_WIDTH = 3
 
 local main_menu_pos_x = 100 - BUTTON_WIDTH * #main_menu_items + 1
-local main_menu_pos_y = 94
+local main_menu_pos_y = 90
 local sub_menu_pos_x_default = main_menu_pos_x
 local sub_menu_pos_y_default = main_menu_pos_y-15
 local sub_menu_pos_x = sub_menu_pos_x_default
